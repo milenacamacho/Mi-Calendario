@@ -1,1 +1,6 @@
-https://github.com/milenacamacho/Mi-Calendario/new/main?filename=next.config.js
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  reactStrictMode: true,
+};
+
+module.exports = nextConfig;
